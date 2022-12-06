@@ -1,2 +1,1 @@
 # mdanas
-print("hello world")
